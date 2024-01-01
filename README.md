@@ -14,3 +14,4 @@ Step 2: Now open another command prompt and change the directory to the kafka fo
 
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 Now your Kafka Server is up and running, you can create topics to store messages. Also, we can produce or consume data directly from the command prompt.
+
